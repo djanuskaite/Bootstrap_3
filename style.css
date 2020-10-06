@@ -1,0 +1,41 @@
+.container {
+  height: 500px;
+}
+
+.kaire {
+  height: 500px;
+}
+
+.desine {
+  height: 500px;
+}
+
+.sviesiaimelyna {
+  background: lightcyan;
+}
+
+.geltona {
+  background: yellow;
+}
+
+.zydra {
+  background: lightblue;
+}
+
+.balta {
+  background: white;
+}
+
+.melyna {
+  background: lightskyblue;
+}
+
+.maza1 {
+  height: 100px;
+}
+.maza2 {
+  height: 300px;
+}
+.maza3 {
+  height: 100px;
+}
